@@ -276,8 +276,6 @@ customer-experience improvement.
 
 ## 🧰 Tools & Technologies
 
-## 🧰 Tools & Technologies
-
 | Tool | Purpose |
 |---|---|
 | Python | Data analysis |
