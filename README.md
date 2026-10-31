@@ -276,26 +276,16 @@ customer-experience improvement.
 
 ## 🧰 Tools & Technologies
 
-  -----------------------------------------------------------------------
-  Tool                                Purpose
-  ----------------------------------- -----------------------------------
-  **Python**                          Data preparation and analysis
+## 🧰 Tools & Technologies
 
-  **Pandas**                          Data cleaning, transformation,
-                                      joins, and aggregation
-
-  **SQL Server**                      Relational queries, KPI
-                                      calculations, and business analysis
-
-  **Excel**                           Data inspection and supplementary
-                                      analysis
-
-  **Power BI**                        Interactive dashboards and business
-                                      reporting
-
-  **Jupyter Notebook**                Exploratory analysis and
-                                      documentation
-  -----------------------------------------------------------------------
+| Tool | Purpose |
+|---|---|
+| Python | Data analysis |
+| Pandas | Data cleaning, grouping, aggregation, and EDA |
+| SQL Server / SSMS | Business queries and metric validation |
+| Power BI | Interactive dashboard and KPI reporting |
+| Jupyter Notebook | Analysis environment and documentation |
+| GitHub | Project version control and portfolio |
 
 ------------------------------------------------------------------------
 
