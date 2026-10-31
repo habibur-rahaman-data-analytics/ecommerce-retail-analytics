@@ -403,9 +403,3 @@ Aspiring Data Analyst \| SQL • Python • Pandas • Excel • Power BI
 -   [LinkedIn](https://www.linkedin.com/in/habiburrahamankolkata)
 -   [GitHub
     Portfolio](https://github.com/habibur-rahaman-data-analytics)
-
-------------------------------------------------------------------------
-
-*This project demonstrates an end-to-end analytics workflow: translating
-business questions into data preparation, SQL analysis, exploratory
-investigation, dashboard reporting, and practical recommendations.*
