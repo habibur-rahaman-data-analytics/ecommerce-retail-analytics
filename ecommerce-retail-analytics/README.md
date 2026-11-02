@@ -292,7 +292,7 @@ customer-experience improvement.
 The dashboard is organized around business decisions rather than
 standalone charts.
 
-![E-commerce Sales, Delivery & Customer Satisfaction Analysis](ecommerce-retail-analytics/images/dashboard-screenshot.jpg)
+![E-commerce Sales, Delivery & Customer Satisfaction Analysis](images/dashboard-screenshot.jpg)
 
 ------------------------------------------------------------------------
 
