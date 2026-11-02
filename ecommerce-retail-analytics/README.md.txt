@@ -292,40 +292,7 @@ customer-experience improvement.
 The dashboard is organized around business decisions rather than
 standalone charts.
 
-### Executive Overview
-
--   Total orders
--   Product sales value
--   Freight value
--   Average order value
--   Delivered-order percentage
-
-### Sales Performance
-
--   Monthly sales trend
--   Sales by product category
--   Sales by seller
--   Sales by customer state
-
-### Delivery Performance
-
--   Late-delivery percentage
--   Actual versus estimated delivery time
--   Delivery performance by seller and destination state
--   Order status distribution
-
-### Customer Experience
-
--   Average review score
--   Review-score distribution
--   Review scores by delivery status
--   Review performance by category and region
-
-### Freight Analysis
-
--   Total freight value
--   Freight-to-product-price ratio
--   Freight by category, seller, and destination state
+![E-commerce Sales, Delivery & Customer Satisfaction Analysis](ecommerce-retail-analytics/images/dashboard-screenshot.jpg)
 
 ------------------------------------------------------------------------
 
